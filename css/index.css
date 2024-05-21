@@ -1,0 +1,21 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+    overflow-y: hidden;
+}
+
+.imagen {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.imagen img {
+	align-items: center;
+	width: 90%;
+}
